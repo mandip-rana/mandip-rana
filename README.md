@@ -1,7 +1,7 @@
 
 <h1 align="left">Hi there 👋</h1>
 
-I’m currently working as an Associate Software Engineer. Having expertise in FullStack development⚡
+I’m currently working as a Senior Software Engineer. Having expertise in FullStack development⚡
 
 <h2 align="left">Connect with me :</h2>
 
@@ -75,4 +75,4 @@ I’m currently working as an Associate Software Engineer. Having expertise in F
   
   <img src="https://streak-stats.demolab.com?user=logic-found&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph"  />
 </div>
-###
+
