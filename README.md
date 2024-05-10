@@ -1,6 +1,14 @@
-### Hi there 👋
+
+<h1 align="left">Hi there 👋</h1>
 
 I’m currently working as an Associate Software Engineer. Having expertise in FullStack development⚡
+
+<h2 align="left">Connect with me :</h2>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="linkedin logo"  />
+  <img width="12" />
+
+<h2 align="left">Languages and Tools :</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -52,13 +60,13 @@ I’m currently working as an Associate Software Engineer. Having expertise in F
   <img width="12" />
   <img src="https://cdn.simpleicons.org/powershell/5391FE" height="40" alt="powershell logo"  />
 </div>
-###
+
 <h2 align="left">Profile Views :</h2>
-###
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/logic-found/count.svg?"  />
 </div>
-###
+
 <div align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=logic-found&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="170" alt="stats graph"  />
