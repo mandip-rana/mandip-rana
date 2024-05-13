@@ -1,5 +1,27 @@
 
-<h1 align="left">Hi there 👋</h1>
+<!-- <h1 align="left">Hi there 👋</h1> -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Animated Text</title>
+  <style>
+    @keyframes slideIn {
+      0% { transform: translateX(-100%); opacity: 0; }
+      100% { transform: translateX(0); opacity: 1; }
+    }
+
+    .animated-text {
+      display: inline-block;
+      animation: slideIn 2s linear infinite;
+    }
+  </style>
+</head>
+<body>
+  <h1 align="left">Hi, I'm <span class="animated-text">Mandip</span>. Welcome to my Github Profile!</h1>
+</body>
+</html>
 
 I’m currently working as a Lead Software Engineer. Having expertise in FullStack development⚡
 
