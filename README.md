@@ -1,19 +1,6 @@
 
-<!-- <h1 align="left">Hi there 👋</h1> -->
-
-  <h1 align="left" <style>
-    @keyframes slideIn {
-      0% { transform: translateX(-100%); opacity: 0; }
-      100% { transform: translateX(0); opacity: 1; }
-    }
-
-   .animated-text {
-      display: inline-block;
-      animation: slideIn 2s linear infinite;
-    }
-  </style>>Hi, I'm <span class="animated-text">Mandip</span>. Welcome to my Github Profile!</h1>
-
-
+<h1 align="left">Hi there 👋</h1>
+  
 I’m currently working as a Lead Software Engineer. Having expertise in FullStack development⚡
 
 <h2 align="left">Connect with me :</h2>
