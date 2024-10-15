@@ -1,7 +1,7 @@
 
 <h1 align="left">Hi there 👋</h1>
   
-I’m currently working as a Lead Software Engineer. Having expertise in FullStack development⚡
+I’m currently working as a Senior Software Engineer. Having expertise in FullStack development⚡
 
 <h2 align="left">Connect with me :</h2>
 
